@@ -1,6 +1,6 @@
 +++
-title = "Katex rendering"
-description = "How to render katex"
+title = "We're fool at the random"
+description = ""
 date = 2019-10-30
 
 [extra]

@@ -20,6 +20,6 @@ highlight_theme = "base16-ocean-light"
 
 
 [extra]
-title = "Toucan theme"
-description = "Theme for Zola inspired from Pelican website theme"
+title = "Jvsr"
+description = "A peronal blog, where I post shit about the world"
 
