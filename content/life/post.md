@@ -1,7 +1,7 @@
 +++
 title = "We're fool at the random"
 description = ""
-date = 2019-10-30
+date = 2023-03-19
 
 [extra]
 katex = true
