@@ -11,7 +11,8 @@ transparent = true
 
 taxonomies = [
 	{name = "science", feed = true},
-	{name = "life", feed = true}
+	{name = "life", feed = true},
+	{name = "computers", feed = true}
 ]
 
 [markdown]
