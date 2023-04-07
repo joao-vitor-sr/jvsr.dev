@@ -182,7 +182,7 @@ How many times have you met a person at a party and thought: "wow, how we have s
 in common", and you think the fallacy of "oh, it's the destiny, we were made to meet", Nah,
 it's not, talk with anyone else at the same party, and you will find the same situation.
 
-## Conclustion
+## Conclusion
 
 The reader may know my opinion on unsolicited advice and sermons on how to behave
 in life. Recalt ideas do not truly sink in when emotions come into play; we do not
