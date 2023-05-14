@@ -10,9 +10,9 @@ theme = "toucan"
 transparent = true
 
 taxonomies = [
-	{name = "science", feed = true},
 	{name = "life", feed = true},
-	{name = "computers", feed = true}
+	{name = "computers", feed = true},
+	{name = "math", feed = true}
 ]
 
 [markdown]
