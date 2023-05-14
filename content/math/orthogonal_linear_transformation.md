@@ -97,6 +97,11 @@ T(x) = \begin{bmatrix}
 \end{bmatrix}x
 ££
 
+## Conclusion
+
+So it's this article described orthogonal linear transformations, which are
+transformations that keep the distance between points and the angles.
+
 ## References
 
 1. Rotman, Joseph. Galois Theory. Springer Science and Business Media, 1998.
